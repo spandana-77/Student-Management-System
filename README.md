@@ -20,3 +20,5 @@ A simple Python application to manage student information.
 - Developer 2: Student Details
 - Developer 3: Dashboard
 EOF
+
+
