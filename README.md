@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Student Management System
 
 A simple Python application to manage student information.
