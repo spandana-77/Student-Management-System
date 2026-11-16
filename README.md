@@ -12,4 +12,8 @@ A simple Python application to manage student information.
 - Python
 - Git
 - GitHub
+<<<<<<< HEAD
 - Student Login with secure authentication
+=======
+- Student Login with email and password
+>>>>>>> feature/login
