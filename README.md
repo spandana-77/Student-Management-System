@@ -1,4 +1,4 @@
-
+cat > README.md <<'EOF'
 # Student Management System
 
 A simple Python application to manage student information.
@@ -19,3 +19,4 @@ A simple Python application to manage student information.
 - Developer 1: Login
 - Developer 2: Student Details
 - Developer 3: Dashboard
+EOF
